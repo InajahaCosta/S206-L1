@@ -1,0 +1,23 @@
+{
+  "name": "s206-l1",
+  "version": "1.0.0",
+  "description": "Repositório da matéria de Qualidade de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InajahaCosta/S206-L1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InajahaCosta/S206-L1/issues"
+  },
+  "homepage": "https://github.com/InajahaCosta/S206-L1#readme",
+  "dependencies": {
+    "cypress": "^13.4.0"
+  }
+}
